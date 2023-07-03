@@ -1,0 +1,12 @@
+#!/bin/bash
+
+
+clear
+echo -e " Hi , this is Manoj Yadav \n I am practicing shell scripting"
+echo " $2  from $3 is a good girl"
+
+echo -e " below is the list of files and directories I created here\n \n  ________________________________________________________________________"
+ls -lrt
+
+
+ 
